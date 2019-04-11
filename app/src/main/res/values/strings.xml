@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PcUiKt</string>
+    <string name="acesso_direto">Acesso direto</string>
+    <string name="message_handler">Message e Handler</string>
+    <string name="escolha_thread">Escolha uma thread</string>
+    <string name="runnable_handler">Runnable e Handler</string>
+    <string name="metodo_activity">Método da Activity</string>
+    <string-array name="opcoes_menu">
+        <item>Acesso direto</item>
+        <item>Message e Handler</item>
+        <item>Runnable e Handler</item>
+        <item>Método da Activity</item>
+    </string-array>
+</resources>
